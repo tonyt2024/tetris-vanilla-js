@@ -4,7 +4,7 @@ Playable directly on GitHub Pages:
 👉 [Play Here](https://tonyt2024.github.io/tetris-vanilla-js/)
 
 <p align="center">
-  <img src="tetris-preview.png" alt="Tetris preview" width="300">
+  <img src="tetris preview.png" alt="Tetris preview" width="300">
 </p>
 
 ## 🕹 Controls
