@@ -1,19 +1,20 @@
-# 🎮 Tetris – Vanilla JavaScript
+# 🧱 Tetris – Vanilla JavaScript
 A simple 2D Tetris game built with HTML, CSS, and JavaScript.  
 Playable directly on GitHub Pages:  
 👉 [Play Here](https://tonyt2024.github.io/tetris-vanilla-js/)
 
-## 🧩 Controls
+<p align="center">
+  <img src="tetris-preview.png" alt="Tetris preview" width="300">
+</p>
+
+## 🕹 Controls
 - ⬅ → Move left  
 - ➡ → Move right  
 - ⬇ → Drop piece  
 - ⬆ or X → Rotate  
 - **Restart** button to play again
 
-## 🛠 Built with
+## 🧩 Built with
 - HTML5 Canvas  
 - CSS3  
 - JavaScript (ES6)
-
-## 📸 Preview
-![Tetris Screenshot](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
